@@ -1,23 +1,123 @@
-Plantae [kingdom]
-  Pinales [order]
-    Pinaceae Spreng. [family]
-      Abietoideae [subfamily]
-        Abies [genus]
-          Abies alba Mill. [species]
-            *Pinus picea L. [species] # a synonym is prefixed by an asterisk
-          Abies balsamea (L.) Mill. [species]
-            *$Pinus balsamea L. [species]   # this is the basionym of A. balsamea, considered a synonym
-Animalia [kingdom]
-  Annelida [phylum]
-    Polychaeta [class]
-      Araneae [order]
-        Mygalomorphae [suborder]
-          Theraphosidae [family]
-            Theraphosinae [subfamily]
-              Aphonopelma Pocock, 1901 [genus] {ENV=terrestrial}
-                Aphonopelma johnnycashi Hamilton, Hendrixson & Bond, 2016 [species] {PUB=Hamilton_2016}
-      Eunicida [order]
-        Kalloprionidae Kielan-Jaworowska, 1966 [family]
-          †Kalloprion Kielan-Jaworowska, 1962 [genus] {PUB=KJ1962}
-            †Kalloprion ovalis Kielan-Jaworowska, 1962 [species] {PUB=KJ1962 ENV=marine}
-            †Kalloprion kilmisteri [species] {PUB=Eriksson_2006 ENV=marine}
+Novius Mulsant, 1846 [genus] {VERN=ces:měsíček}
+  *Anovia Casey, 1908
+  *Eurodolia Weise, 1895
+  *Nomius Mulsant, 1846
+  *Rodolia Mulsant, 1850
+  *Vedalia Mulsant, 1850
+  Novius alluaudi (Sicard, 1909) [species]
+  Novius amabilis (Kapur, 1949) [species]
+    *Rodolia amabilis Kapur, 1949
+  Novius andamanicus (Weise, 1901) [species]
+    *Rodolia andamanica Weise, 1901 o
+  Novius apicalis (Sicard, 1909) [species]
+  Novius argodi (Sicard, 1909) [species]
+  Novius bellus Blackburn, 1889 [species]
+    *Eurodolia severini Weise, 1895
+    *Rodolia bella (Blackburn, 1889)
+    *Rodolia immaculata (Lea, 1902)
+    *Rodolia severini (Weise, 1895)
+  Novius breviusculus (Weise, 1892) [species]
+    *Rodolia breviuscula Weise, 1892
+  Novius canariensis Korschefsky, 1931 [species]
+  Novius capucinus (Fürsch, 1975) [species]
+  Novius cardinalis Mulsant, 1850 [species] {VERN=ces:slunéčko australské,eng:Vedalia}
+    *Rodolia cardinalis (Mulsant, 1850)
+    *Vedalia cardinalis Mulsant, 1850 o
+  Novius chapaensis (Hoang, 1980) [species]
+  Novius cinctipennis (Weise, 1912) [species]
+  Novius circumclusus (Gorham, 1899) [species]
+    *Anovia circumclusa (Gorham, 1899)
+  Novius concolor (Lewis, 1879) [species]
+  Novius conicollis Korschefsky, 1931 [species]
+  Novius contrarius (Sicard, 1931) [species]
+  Novius cruentatus (Mulsant, 1846) [species] {VERN=ces:měsíček krvoskvrnný,ces:lvíček krvoskvrnný o}
+  Novius delobeli (Chazeau, 1981) [species]
+  Novius fausti (Weise, 1885) [species]
+  Novius ferrugineus (Weise, 1900) [species]
+  Novius formosanus (Korschefsky, 1935) [species]
+  Novius fulvescens (Hoang, 1980) [species]
+    *Rodolia fulvescens Hoang, 1980
+  Novius fumidus (Mulsant, 1850) [species]
+    *Epilachna arethusa Mulsant, 1853
+    *Epilachna testicolor Mulsant, 1853
+    *Rodolia chermesina Mulsant, 1850
+    *Rodolia fumida Mulsant, 1850 o
+    *Rodolia roseipennis Mulsant, 1850
+  Novius hauseri Mader, 1930 [species]
+  Novius iceryae (Janson, 1889) [species]
+  Novius insularis (Weise, 1895) [species]
+  Novius koebelei Olliff in Craw, 1892 [species]
+    *Novius discoidalis Blackburn, 1895
+    *Novius limbatus Blackburn, 1895
+    *Novius ruber Blackburn, 1889
+    *Novius simplicipennis Blackburn, 1895
+    *Novius tridens Lea, 1902
+    *Novius tripustulatus Blackburn, 1895
+    *Rodolia blackburni Ukrainsky, 2009
+    *Rodolia discoidalis (Blackburn, 1895)
+    *Rodolia koebelei (Olliff, 1892) Korschefsky, 1931
+    *Rodolia limbata (Blackburn, 1895)
+    *Rodolia rubra (Blackburn, 1889)
+    *Rodolia simplicipennis (Blackburn, 1895)
+    *Rodolia tridens (Lea, 1902)
+    *Rodolia tripustulata (Blackburn, 1895)
+  Novius lindi Blackburn, 1889 [species]
+    *Rodolia lindi (Blackburn, 1889)
+  Novius lydiae (Chazeau, 1991) [species]
+  Novius manganensis (Singh, 2014) [species]
+  Novius marek Ślipiński & Pang, 2020 [species]
+  Novius marginatus (Bielawski, 1960) [species]
+    *Rodolia marginata Bielawski, 1960
+  Novius mayottensis (Fürsch, 2003) [species]
+  Novius mexicanus (Gordon, 1972) [species]
+  Novius minimus (Kapur, 1949) [species]
+    *Rodolia minima Kapur, 1949
+  Novius minutus (Sicard, 1909) [species]
+  Novius netara (Kapur, 1949) [species]
+    *Rodolia netara Kapur, 1949
+  Novius niger (Fürsch, 1995) [species]
+  Novius nigerrimus Fürsch, 1960 [species]
+  Novius nigrofrontalis (Kapur, 1951) [species]
+    *Rodolia nigrofrontalis Kapur, 1951
+  Novius obscuricollis (Sicard, 1931) [species]
+  Novius occidentalis (Weise, 1898) [species]
+  Novius octoguttatus (Weise, 1910) [species]
+    *Rodolia octoguttata Weise, 1910
+  Novius parvulus (Kirsch & Mitteil, 1875) [species]
+  Novius peruvianus (Gordon, 1972) [species]
+  Novius picicollis (Weise, 1900) [species]
+  Novius podagricus (Weise, 1908) [species]
+  Novius pronuba (Chazeau, 1991) [species]
+  Novius prosternalis (Sicard, 1909) [species]
+  Novius pumilus (Weise, 1892) [species]
+  Novius punctiger (Weise, 1901) [species]
+  Novius punicus (Gordon, 1972) [species]
+  Novius quadrimaculatus (Mader, 1939) [species]
+  Novius quadriplagiatus (Sicard, 1909) [species]
+  Novius quadrispilotus (Sicard, 1909) [species]
+  Novius rubeus (Mulsant, 1850) [species]
+  Novius ruficollis (Mulsant, 1850) [species]
+    *Rodolia ruficollis Mulsant, 1850 o
+  Novius rufipennis (Pic, 1926) [species]
+  Novius rufocinctus (Lewis, 1896) [species]
+  Novius rufopilosus (Mulsant, 1850) [species]
+    *Rodolia rufopilosa Mulsant, 1850
+  Novius sanguinolentus Mulsant, 1850 [species]
+    *Rodolia sanguinolenta (Mulsant, 1850)
+  Novius seabrai (Sicard, 1921) [species]
+  Novius senegalensis (Weise, 1913) [species]
+  Novius sexmaculatus (Korschefsky, 1940) [species]
+  Novius sexnotatus (Mulsant, 1850) [species]
+    *Rodolia sexnotata Mulsant, 1850
+  Novius shuiro (Kitano, 2014) [species]
+    *Rodolia shuiro Kitano, 2014
+  Novius songchuanus (Hoang, 1980) [species]
+  Novius tamdaoanus (Hoang, 1980) [species]
+  Novius usambaricus (Weise, 1898) [species]
+  Novius virginalis (Wickham, 1905) [species]
+    *Anovia virginalis (Wickham, 1905)
+    *Scymnus virginalis Wickham, 1905 o
+  Novius vulpinus (Fürsch, 1974) [species]
+  Novius weisei (Gordon, 1972) [species]
+  Novius westermanni (Crotch, 1874) [species]
+  Novius xianfengensis (Xiao, 1992) [species]
